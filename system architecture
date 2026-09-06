@@ -1,0 +1,32 @@
+              USER
+                ↓
+        ┌────────────────┐
+        │    FRONTEND    │
+        │ Member 3       │
+        └───────┬────────┘
+                │
+                │ API Request
+                ↓
+        ┌────────────────┐
+        │    BACKEND     │
+        │ Member 2       │
+        └───┬────────┬───┘
+            │        │
+            │        │
+            ↓        ↓
+       ┌────────┐  ┌──────────┐
+       │Database│  │ AI / ML  │
+       │        │  │ Member 4 │
+       └────────┘  └────┬─────┘
+                         │
+                         ↓
+                    AI Result
+                         │
+                         ↓
+                    BACKEND
+                         │
+                         ↓
+                    FRONTEND
+                         │
+                         ↓
+                       USER
