@@ -1,0 +1,14 @@
+sighting_id,person_id_1,person_id_2,location_id,sighting_date,sighting_time,source,notes
+1,54,11,3,2025-02-22,14:00:24,CCTV,"Routine observation, no known connection to the ongoing investigation."
+2,1,2,1,2025-03-09,19:20:00,CCTV,Both individuals seen at the same tea stall for approx 25 minutes; P1 hands P2 an envelope.
+3,1,2,3,2025-03-21,20:05:00,Field Surveillance,P1 and P2 meet briefly near parked vehicles before departing separately.
+4,2,3,2,2025-05-14,18:45:00,Field Surveillance,P2 and P3 observed entering the same office unit; P3 seen carrying a laptop bag.
+5,3,4,4,2025-07-18,13:30:00,CCTV,P3 and P4 seated together for lunch; hand over of a folder observed.
+6,3,4,6,2025-07-29,09:10:00,Field Surveillance,"Brief meeting near station entrance, approx 8 minutes."
+7,49,63,1,2025-08-03,14:38:33,Field Surveillance,"Routine observation, no known connection to the ongoing investigation."
+8,55,26,5,2025-09-03,14:11:40,CCTV,"Routine observation, no known connection to the ongoing investigation."
+9,4,5,5,2025-09-10,17:00:00,Field Surveillance,P4 and P5 meet at a corner table; P5 arrives separately by a different vehicle.
+10,78,27,3,2025-09-11,08:07:43,CCTV,"Routine observation, no known connection to the ongoing investigation."
+11,79,14,7,2025-10-04,14:48:40,CCTV,"Routine observation, no known connection to the ongoing investigation."
+12,59,73,1,2025-10-24,12:46:59,Field Surveillance,"Routine observation, no known connection to the ongoing investigation."
+13,5,6,7,2025-10-25,20:15:00,Informant + Field Surveillance,P5 and P6 meet; P4 joins ten minutes later. First confirmed sighting placing P6 with two other network nodes simultaneously.

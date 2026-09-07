@@ -1,0 +1,39 @@
+location_id,state,city,latitude,longitude
+1,Maharashtra,Pune,18.534343,73.809201
+2,Maharashtra,Pune,18.497903,73.829021
+3,Maharashtra,Pune,18.544047,73.87437
+4,Maharashtra,Mumbai,19.115218,72.836394
+5,Karnataka,Bengaluru,12.963792,77.54758
+6,Telangana,Hyderabad,17.356864,78.487236
+7,Delhi,New Delhi,28.566554,77.178884
+8,Rajasthan,Jaipur,26.927388,75.791794
+9,Maharashtra,Pune,18.492444,73.865627
+10,Maharashtra,Pune,18.551343,73.80735
+11,Maharashtra,Mumbai,19.106582,72.897514
+12,Maharashtra,Mumbai,19.060025,72.843248
+13,Maharashtra,Nagpur,21.191521,79.071859
+14,Maharashtra,Nagpur,21.105075,79.047872
+15,Delhi,New Delhi,28.648649,77.219373
+16,Delhi,New Delhi,28.644613,77.231973
+17,Karnataka,Bengaluru,12.975223,77.641912
+18,Karnataka,Bengaluru,12.959453,77.599804
+19,Telangana,Hyderabad,17.41794,78.498552
+20,Telangana,Hyderabad,17.421171,78.494435
+21,Tamil Nadu,Chennai,13.103157,80.225282
+22,Tamil Nadu,Chennai,13.05549,80.249639
+23,West Bengal,Kolkata,22.530579,88.337179
+24,West Bengal,Kolkata,22.5327,88.341697
+25,Rajasthan,Jaipur,26.925968,75.773783
+26,Rajasthan,Jaipur,26.899418,75.758251
+27,Gujarat,Ahmedabad,22.999198,72.615065
+28,Gujarat,Ahmedabad,23.037304,72.582313
+29,Madhya Pradesh,Bhopal,23.227014,77.435513
+30,Madhya Pradesh,Bhopal,23.22624,77.400546
+31,Uttar Pradesh,Lucknow,26.895652,80.9602
+32,Uttar Pradesh,Lucknow,26.852395,80.964661
+33,Punjab,Chandigarh,30.767585,76.807
+34,Punjab,Chandigarh,30.706205,76.73261
+35,Kerala,Kochi,9.912745,76.244074
+36,Kerala,Kochi,9.902298,76.311591
+37,Bihar,Patna,25.631737,85.119068
+38,Bihar,Patna,25.609644,85.127163
